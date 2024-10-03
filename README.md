@@ -1,2 +1,2 @@
-# account_registration-hospice-
+# account_registration
 Настройка для регистрации на сайте
