@@ -1,2 +1,2 @@
 # account_registration
-Настройка регистрации на сайте. 
+Настройка регистрации на сайте Django framework. 
