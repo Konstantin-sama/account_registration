@@ -1,5 +1,5 @@
 # account_registration
-Настройка регистрации на сайте, созданном с использованием Django framework и языка Python. 
+Настройка регистрации на сайте, созданном с использованием Django framework и языка Python.<br/>
 Содержание: 
 - 10 html страниц
 - Стиль bootstrap
